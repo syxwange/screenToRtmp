@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/screenToRtmpUI">
+        <file>Resources/aero_arrow.cur</file>
+    </qresource>
+</RCC>
